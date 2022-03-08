@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/* Variables*/ 
+@import "./variables/tamaños";
+@import "./variables/colores";
+/* Secciones*/ 
+@import "./header-footer/header";
+@import "./secciones/index";
+@import "./secciones/preguntasf";
+@import "./secciones/profesiones";
+@import "./secciones/quienessomos";
+@import "./secciones/bibliografia";
+@import "./secciones/videos";
+@import "./header-footer/footer";

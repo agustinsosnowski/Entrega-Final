@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box; }
+
+/* Variables*/
+/* Secciones*/
+header {
+  align-self: flex-start; }
+  header h1 {
+    background-image: image(); }
+  header p {
+    background-color: beige; }
+
+.imagenIndex {
+  height: 90%; }
+
+main {
+  text-align: center; }
+
+main {
+  text-align: center; }
+
+footer {
+  background-color: #eebcbc;
+  align-self: flex-end;
+  text-align: center; }
+  footer .imageFooter {
+    width: 8%;
+    height: 80%; }
